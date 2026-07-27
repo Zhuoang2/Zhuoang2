@@ -1,6 +1,8 @@
 # Hi, I'm Zhuoang Tao
 
-I'm a Computational & Mathematical Engineering M.S. candidate at Stanford. I work on machine-learning systems, high-performance software, data infrastructure, and quantitative modeling.
+I'm currently pursuing an M.S. in Computational and Mathematical Engineering on the Data Science track at Stanford University. My work sits at the intersection of machine learning, high-performance computing, data infrastructure, and quantitative modeling. I am especially interested in building reliable systems for training, evaluating, and deploying data-driven models.
+
+Before Stanford, I earned a B.S. in Computer Science and a B.A. in Mathematics, with a minor in Statistics, from the University of Illinois Urbana-Champaign. This combination of computer science, mathematics, and statistics continues to shape how I approach problems: start with a rigorous model, then build systems that make it useful in practice.
 
 ## Selected Coursework
 
@@ -15,4 +17,6 @@ I'm a Computational & Mathematical Engineering M.S. candidate at Stanford. I wor
 
 - [**Graph Analytics & P2P Network Visualization**](https://github.com/Zhuoang2/CS225-UIUC-Gnutella-P2P-Network_Visualization) — *UIUC CS 225*. A C++ graph-analysis project using shortest paths and betweenness centrality.
 
-[LinkedIn](https://www.linkedin.com/in/zhuoang-tao-952205209/)
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/zhuoang-tao-952205209/)
