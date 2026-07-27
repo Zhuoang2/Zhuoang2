@@ -15,8 +15,4 @@ I'm a Computational & Mathematical Engineering M.S. candidate at Stanford. I wor
 
 - [**Graph Analytics & P2P Network Visualization**](https://github.com/Zhuoang2/CS225-UIUC-Gnutella-P2P-Network_Visualization) — *UIUC CS 225*. A C++ graph-analysis project using shortest paths and betweenness centrality.
 
-## Tools
-
-Python · C++ · CUDA · PyTorch · SQL · GCP · Docker · Linux
-
 [LinkedIn](https://www.linkedin.com/in/zhuoang-tao-952205209/)
