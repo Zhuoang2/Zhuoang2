@@ -1,10 +1,10 @@
 # Hi, I'm Zhuoang Tao
 
-I'm Zhuoang, an M.S. student in **Computational and Mathematical Engineering (Data Science)** at **Stanford University**, expecting to graduate in June 2027. Before Stanford, I earned a B.S. in Computer Science and a B.A. in Mathematics, with a minor in Statistics, from the **University of Illinois Urbana-Champaign**.
+I'm a master's student at **Stanford University**, studying Computational and Mathematical Engineering on the Data Science track. I expect to graduate in June 2027. Before Stanford, I studied computer science and mathematics at **UIUC**, earning a B.S. in Computer Science and a B.A. in Mathematics, with a minor in Statistics.
 
-My interests span **artificial intelligence, software engineering, and data science**. I enjoy connecting mathematical ideas with practical problems: understanding the question, working through the data, building a solution, and checking whether it is useful in practice. Through internships, academic projects, and teaching, I've worked across machine learning research, software development, data analysis, and helping students understand probability and statistics.
+I like understanding how things work and then building something with what I've learned. That has taken me from machine learning research and data analysis to software projects and GPU programming. I enjoy digging into a model or a piece of code, but I'm just as interested in what someone might actually do with it.
 
-I'm curious about both how technology works and how people use it. Alongside building projects, I keep notes on research, interviews with AI builders, and emerging products. These help me connect ideas across fields and think about what makes a promising idea worth developing further.
+A lot of my attention lately has been on AI: following new ideas, trying tools in my own work, and keeping notes on the things that make me stop and think. This GitHub is a collection of projects from that learning process, alongside my coursework and personal interests.
 
 ## Experience
 
@@ -54,16 +54,14 @@ A public subset of my equity-research workflow, covering deterministic candidate
 
 ## What I'm Exploring
 
-I follow AI research and the people building with it, keeping a growing collection of notes on what seems useful, what remains uncertain, and what deserves a closer look. A few questions I keep returning to:
+I've been spending a lot of time with **AI agents**, both using them and following how others build them. Using AI for ongoing work has made me curious about the less visible parts: how it remembers earlier decisions, picks up an unfinished task, or knows when to ask for help. I like seeing how small changes to the tools and workflow can change the whole experience.
 
-- **AI agents and long-running work.** How can agents preserve useful context, use tools, coordinate with one another, and recover when something goes wrong? I'm interested in the memory, feedback, and evaluation that help them carry a task through to a verifiable result.
-- **AI products and human collaboration.** What makes AI fit naturally into the way people learn, create, and work? I pay attention to product design, trust, permissions, and when people should remain in control—not just what a model can do in a demo.
-- **AI for science and discovery.** I'm curious about systems that help researchers explore ideas, run experiments, and learn from results, while keeping the evidence and reasoning open to independent checks.
-- **Physical AI and real-world feedback.** Robotics, autonomous systems, and automated laboratories interest me because they connect computation with a world that is noisy and unpredictable. I want to understand how simulation, real measurements, and human judgment can work together.
-- **The practical foundations of AI.** I also follow model development, computing infrastructure, and the cost and efficiency of deployment. I'm interested in how those choices affect who can use AI and which applications become practical.
+That curiosity extends to AI products more broadly. I follow builder interviews and product launches, and keep notes on ideas I'd like to revisit or try. I'm interested in what makes a tool become part of someone's day—whether it helps them write, learn, code, or make sense of information. The way people interact with it matters to me as much as the model behind it.
 
-Across these topics, I care about the gap between an impressive demonstration and something people can reliably use. My notes are a way to keep learning and refining my own judgment, rather than treating every new announcement as a settled conclusion.
+**Physical AI and AI for science** are two areas I've been following closely. There's something especially compelling about a model doing work that leads to a real measurement or experiment. I want to learn more about how robots, autonomous systems, and laboratory tools learn from what happens around them, and how researchers decide what to try next.
+
+I also enjoy following the engineering underneath all of this, from model training to hardware and inference costs. My own systems projects have given me a reason to look more closely at those details, and I like moving between these topics and finding connections worth exploring.
 
 ## Connect
 
-I'm always happy to connect with people working on interesting problems in AI, software, and data, whether to exchange ideas, discuss a project, or explore opportunities. I'm looking for **2027 full-time roles**, with availability from **July 2027**. Feel free to [connect with me on LinkedIn](https://www.linkedin.com/in/zhuoang-tao-952205209/).
+If something here overlaps with what you're working on, I'd love to hear about it. You can find me on [LinkedIn](https://www.linkedin.com/in/zhuoang-tao-952205209/). I'm also looking for **full-time opportunities starting in July 2027** in AI, software engineering, and data science.
