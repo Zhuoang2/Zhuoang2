@@ -1,14 +1,18 @@
 # Hi, I'm Zhuoang Tao
 
-I'm an M.S. student in **Computational and Mathematical Engineering (Data Science)** at **Stanford University**, graduating in June 2027. I build machine learning models and the systems around them: training pipelines, GPU kernels, evaluation tools, and data infrastructure.
+I'm Zhuoang, an M.S. student in **Computational and Mathematical Engineering (Data Science)** at **Stanford University**, expecting to graduate in June 2027. Before Stanford, I earned a B.S. in Computer Science and a B.A. in Mathematics, with a minor in Statistics, from the **University of Illinois Urbana-Champaign**.
 
-My background combines a B.S. in Computer Science, a B.A. in Mathematics, and a minor in Statistics from **UIUC**. I'm interested in work where modeling and software engineering meet, with a particular focus on **ML systems, LLM post-training, and applied AI**.
+My interests span **artificial intelligence, software engineering, and data science**. I enjoy connecting mathematical ideas with practical problems: understanding the question, working through the data, building a solution, and checking whether it is useful in practice. Through internships, academic projects, and teaching, I've worked across machine learning research, software development, data analysis, and helping students understand probability and statistics.
+
+I'm curious about both how technology works and how people use it. Alongside building projects, I keep notes on research, interviews with AI builders, and emerging products. These help me connect ideas across fields and think about what makes a promising idea worth developing further.
 
 ## Experience
 
-- **Upstart · Research Scientist Intern · 2026** — Contributed to a prototype Transformer model, developed and evaluated cash-flow prediction methods, and built point-in-time training datasets. My work focused on research and development, with careful attention to temporal leakage and out-of-time evaluation.
-- **UIUC ATLAS · AI Team Intern · 2024** — Built and piloted a React/AWS educational platform with learning analytics and personalized recommendations for more than 200 students.
-- **Shanghai Data Exchange · Machine Learning Intern · 2024** — Built a BERT-based model for data-product pricing and analyzed its performance.
+- **Upstart** — Research Scientist Intern · Jun–Sep 2026
+- **Stanford University** — Course Assistant, CME 106: Probability and Statistics · Jan–Mar 2026
+- **University of Illinois Urbana-Champaign** — Course Assistant, CS 361: Probability and Statistics · Jan–May 2025
+- **Shanghai Data Exchange** — Machine Learning Intern, Research and Development · Jun–Aug 2024
+- **UIUC ATLAS** — AI Team Intern · Jan–Aug 2024
 
 ## Selected Projects
 
@@ -50,16 +54,16 @@ A public subset of my equity-research workflow, covering deterministic candidate
 
 ## What I'm Exploring
 
-I follow AI and agent development closely, especially how evaluation, memory, tool use, and human oversight shape reliable systems. I'm also interested in **physical AI**: connecting perception and reasoning to actions, then using real-world feedback to understand what actually works.
+I follow AI research and the people building with it, keeping a growing collection of notes on what seems useful, what remains uncertain, and what deserves a closer look. A few questions I keep returning to:
 
-## Tools I Work With
+- **AI agents and long-running work.** How can agents preserve useful context, use tools, coordinate with one another, and recover when something goes wrong? I'm interested in the memory, feedback, and evaluation that help them carry a task through to a verifiable result.
+- **AI products and human collaboration.** What makes AI fit naturally into the way people learn, create, and work? I pay attention to product design, trust, permissions, and when people should remain in control—not just what a model can do in a demo.
+- **AI for science and discovery.** I'm curious about systems that help researchers explore ideas, run experiments, and learn from results, while keeping the evidence and reasoning open to independent checks.
+- **Physical AI and real-world feedback.** Robotics, autonomous systems, and automated laboratories interest me because they connect computation with a world that is noisy and unpredictable. I want to understand how simulation, real measurements, and human judgment can work together.
+- **The practical foundations of AI.** I also follow model development, computing infrastructure, and the cost and efficiency of deployment. I'm interested in how those choices affect who can use AI and which applications become practical.
 
-- **Languages:** Python, C++, SQL, R, JavaScript
-- **ML and systems:** PyTorch, Hugging Face, XGBoost, CUDA, MPI
-- **Data and cloud:** Databricks, AWS, GCP, BigQuery, Docker
+Across these topics, I care about the gap between an impressive demonstration and something people can reliably use. My notes are a way to keep learning and refining my own judgment, rather than treating every new announcement as a settled conclusion.
 
 ## Connect
 
-I'm interested in **2027 full-time opportunities** in applied AI, ML systems, and software/data engineering, with availability from **July 2027**.
-
-[LinkedIn](https://www.linkedin.com/in/zhuoang-tao-952205209/)
+I'm always happy to connect with people working on interesting problems in AI, software, and data, whether to exchange ideas, discuss a project, or explore opportunities. I'm looking for **2027 full-time roles**, with availability from **July 2027**. Feel free to [connect with me on LinkedIn](https://www.linkedin.com/in/zhuoang-tao-952205209/).
